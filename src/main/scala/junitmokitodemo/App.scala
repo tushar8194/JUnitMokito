@@ -1,0 +1,5 @@
+package junitmokitodemo
+
+object App {
+
+}
